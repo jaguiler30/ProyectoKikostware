@@ -25,8 +25,21 @@ Casos de uso
 
 Diccionario de datos
 
-<p></p>
+<p>Base de datos Productos</p>
 
+![image](https://github.com/user-attachments/assets/f0ac963f-2647-4cb9-8a59-4636f4506608)
+<br>
+![image](https://github.com/user-attachments/assets/931ff664-0d44-4448-a7aa-84f0ed5bec4c)
+<br>
+![image](https://github.com/user-attachments/assets/65e8bf58-2554-4692-b81e-019e7d729e27)
+<br>
+![image](https://github.com/user-attachments/assets/fe70b409-786f-4c5c-b51c-491618af78e3)
+<br>
+![image](https://github.com/user-attachments/assets/562b8e2a-0453-4a70-bee8-ca015583de8d)
+
+Diagrama entidad relacion
+
+![image](https://github.com/user-attachments/assets/64c10bcc-e643-475d-99d6-5898c3a6bd73)
 
 
 
