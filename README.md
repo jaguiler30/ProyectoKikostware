@@ -16,12 +16,17 @@ Recoleccion de informacion
 ![image](https://github.com/user-attachments/assets/3bf4a6e9-b5fd-425f-b8e7-35122dd36e07)
 <br>
 
+![image](https://github.com/user-attachments/assets/0168859b-9cde-42ee-a9d1-c3a9e817bc87)
+<br>
+![image](https://github.com/user-attachments/assets/13290434-3ee7-4d0b-906d-09d819e661b3)
+
 Casos de uso
 
 <p>Con la informacion recolectada en las encuentas realizadas al personal de produccion y administracion determinamos los siguientes casos de uso para nuestro proyecto</p>
 <br>
 
-![image](https://github.com/user-attachments/assets/1a31db17-9392-49ec-9e64-511da60764d2)
+![image](https://github.com/user-attachments/assets/a05c9e23-27a9-4f41-b372-6c45f0eed69a)
+
 
 Diccionario de datos
 
